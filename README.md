@@ -1,4 +1,6 @@
-# NSEpy 0.8
+## Added fix in this repo :- when there is no delivery data from NSE, nsepy was not giving historical data.  
+
+# NSEpy 0.8.1
 Python Library to get publicly available data on NSE website ie. stock quotes, historical data, live indices.
 
 Detailed documentation here - https://nsepy.xyz/
